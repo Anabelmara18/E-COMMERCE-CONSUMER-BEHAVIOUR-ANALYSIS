@@ -113,6 +113,5 @@ This analysis reveals critical trends in customer demographics, shopping habits,
 
 ---
 
-### 📂 Repository Structure
-```
+
 
