@@ -36,6 +36,17 @@ This analysis explores consumer behavior within an e-commerce environment. The d
 - **Data Cleaning:** No missing values or duplicates.
 - **Exploratory Data Analysis (EDA):** Summary statistics and visualizations to reveal behavioral patterns.
 - **Pivot Tables for Data Aggregation:** Insights on customer segmentation, brand loyalty trends, and return rates.
+
+
+![Screenshot 2025-04-03 235033](https://github.com/user-attachments/assets/2a803f27-18ae-4540-83fb-e4bc3e292c34)
+
+
+
+
+![Screenshot 2025-04-03 235126](https://github.com/user-attachments/assets/c41aabc0-f2f3-4b2c-9b69-c48e5bbdf40e)
+
+
+- 
 - **Customer Segmentation:** Grouped customers by age and income for targeted insights.
 - **Return Rate Analysis:** Assessed categories with high return rates.
 - **Sales Performance Review:** Tracked revenue trends by category and demographics.
