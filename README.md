@@ -42,8 +42,11 @@ This analysis explores consumer behavior within an e-commerce environment. The d
 - **Data Visualization:** Charts, bar graphs, and tables for clear presentation.
 
 ## Dashboard Preview
-![E Commerce Consumer Behaviour Dashboard]![Screenshot 2025-04-03 183603](https://github.com/user-attachments/assets/2ce42bb4-99fc-448f-9369-4a77179f2e![Screenshot 2025-04-03 183639](https://github.com/user-attachments/assets/491ea546-cd7b-47f8-b0a9-e519b26567df)
+![Screenshot 2025-04-03 183603](https://github.com/user-attachments/assets/b7ad1855-99fe-4d1e-9654-e9074c5dddc2)
 
+
+
+![Screenshot 2025-04-03 183639](https://github.com/user-attachments/assets/f3d37a71-238e-4c15-b437-50e367dfeb2d)
 
 
 ## 🔍 Key Insights
